@@ -12,6 +12,7 @@ Dont see what you like? Open a ticket and get your bot made, we can work with et
 ![image](https://github.com/EternalPB/Eternull-Discord-Bots/assets/91477023/d679679e-c62f-4e28-83aa-3cd5bd63bee5)
 ![image](https://github.com/EternalPB/Eternull-Discord-Bots/assets/91477023/2da2870b-eec1-4c7b-8579-8a6f25b27b53)
 ![image](https://github.com/EternalPB/Eternull-Discord-Bots/assets/91477023/70549820-e706-43b6-a997-54c635d9cb05)
+![image](https://github.com/EternalPB/Eternull-Discord-Bots/assets/91477023/7646362b-addd-4523-ba03-52752c4fec7a)
 
 
 
