@@ -1,4 +1,4 @@
-# Eternull-Discord-Bots-
+# Eternull-Discord-Bots
 Crypto and Stock related bots created on discord, we offer everything from general prices to stats to full on community command bots!
 
 Our bots are in over 31,000 servers and used by over 21 millions users! 
